@@ -1,0 +1,15 @@
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/persistence/impl/InMemoryBlueprintPersistence.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/persistence/impl/Tuple.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/persistence/Filter.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/Main.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/persistence/impl/Redundancy.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/persistence/impl/Undersampling.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/controllers/BlueprintAPIController.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/model/Point.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprintsapi/BlueprintsAPIApplication.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/controllers/ResourceNotFoundException.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/services/BlueprintsServices.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/persistence/BlueprintsPersistence.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/persistence/BlueprintPersistenceException.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/model/Blueprint.java
+/Users/juanca/Documents/git/lab_arsw_5/src/main/java/edu/eci/arsw/blueprints/service/persistence/BlueprintNotFoundException.java
